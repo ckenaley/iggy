@@ -1,0 +1,52 @@
+Genus,Species,ID,Label,Specimen ## in Jar,Scanned,Landmarked,,family,Diet
+Astronesthes,niger,MCZ 52845,29,5,Yes,Yes,,Stomiidae,Planktivore
+Bathophilus,metallicus,MCZ 84817,2,1,Yes,Yes,,Stomiidae,Macrophage
+Bathophilus,metallicus,MCZ 84812,1,,Yes,Yes,,Stomiidae,Macrophage
+Bathophilus,metallicus,MCZ 101646,2,1,Yes,Yes,,Stomiidae,Macrophage
+Bathophilus,metallicus,MCZ 84813,2,,Yes,Yes,,Stomiidae,Macrophage
+Chauliodus,sloani,MCZ 128954,2,,Yes,Yes,,Non-Stomiidae,Macrophage
+Chauliodus,sloani,MCZ 128574,1,,Yes,Yes,,Non-Stomiidae,Macrophage
+Chauliodus,sloani,MCZ 128578,4,1,Yes,Yes,,Non-Stomiidae,Macrophage
+Chauliodus,sloani,MCZ 128954,2,2,Yes,Yes,why is there a duplicate?,Non-Stomiidae,Macrophage
+Chauliodus,sloani,MCZ 58788,7,,IP,,,Non-Stomiidae,Macrophage
+Echiostoma,barbatum,MCZ 148300,13,4,IP,,I might have done one of them,Stomiidae,Macrophage
+Echiostoma,barbatum,MCZ 132630,2,1,Yes,Yes,,Stomiidae,Macrophage
+Eustomias,schmidti,MCZ 132536,1,,Yes,Yes,,Stomiidae,Macrophage
+Eustomias,schmidti,MCZ 155490,1,,Yes,Yes,,Stomiidae,Macrophage
+Flagellostomias,boureei,MCZ 70491,1,,,,,Stomiidae,Macrophage
+Flagellostomias,boureei,MCZ 53252,1,,Yes,Yes,,Stomiidae,Macrophage
+Flagellostomias,boureei,MCZ 70492,1,,Yes,Yes,,Stomiidae,Macrophage
+Grammatostomias,dentatus,MCZ 70497,1,,Yes,Yes,,Stomiidae,Macrophage
+Grammatostomias,dentatus,MCZ 161555,1,,Yes,Yes,,Stomiidae,Macrophage
+Ichthyococcus,ovatus,MCZ 47693,5,,Yes,Yes,,Non-Stomiidae,Planktivore
+Idiacanthus,fasciola,MCZ 149616,1,,Yes,Yes,,Stomiidae,Macrophage
+Idiacanthus,fasciola,MCZ 149524,1,,Yes,Yes,,Stomiidae,Macrophage
+Idiacanthus,fasciola,MCZ 149522,1,,Yes,Yes,,Stomiidae,Macrophage
+Leptostomias,gladiator,MCZ 89460,5,3,Yes,Yes,,Stomiidae,Macrophage
+Leptostomias,gladiator,MCZ 132479,1,,Yes,Yes,,Stomiidae,Macrophage
+Malacosteus,niger,MCZ 131756,3,,Yes,Yes,,Stomiidae,Planktivore
+Melanostomias,bartonbeani,MCZ 163112,2,,IP,,,Stomiidae,Macrophage
+Neonesthes,capensis,MCZ 41125,1,,Yes,Yes,,Stomiidae,Macrophage
+Neonesthes,capensis,MCZ 132795,1,,Yes,Yes,,Stomiidae,Macrophage
+Neonesthes,capensis,MCZ 132798,1,,Yes,Yes,,Stomiidae,Macrophage
+Pachystomias,microdon,MCZ 58801,1,,Yes,Yes,,Stomiidae,Macrophage
+Pachystomias,microdon,MCZ 53256,1,,,,,Stomiidae,Macrophage
+Pachystomias,microdon,MCZ 70579,1,,Yes,Yes,,Stomiidae,Macrophage
+Photonectes,margarita,MCZ 132095,1,,,,This is the really large one,Stomiidae,Macrophage
+Photonectes,margarita,MCZ 132093,1,,Yes,Yes,,Stomiidae,Macrophage
+Photostomias,guernei,MCZ 131476,4,2,Yes,Yes,,Stomiidae,Planktivore
+Photostomias,guernei,MCZ 131481,3,2,Yes,Yes,,Stomiidae,Planktivore
+Photostomias,guernei,MCZ 131477,1,,Yes,Yes,,Stomiidae,Planktivore
+Polymetme,thaeocoryla,MCZ 91007,1,,Yes,Yes,,Non-Stomiidae,Planktivore
+Polymetme,thaeocoryla,MCZ 91008,1,1,Yes,Yes,,Non-Stomiidae,Planktivore
+Stomias,boa ferox,MCZ 129188,7,2,Yes,Yes,,Stomiidae,Macrophage
+Thysanactis,dentex,MCZ 132026,6,3,Yes,Yes,,Stomiidae,Macrophage
+Vinciguerria,nimbaria,MCZ 151699,37,,Yes,Yes,,Non-Stomiidae,Planktivore
+Valenciennellus,tripunctulatus,MCZ 133541,,,,,"Done, but not on orig list",Non-Stomiidae,Planktivore
+Chauliodus,sloani,MCZ 100867,,,,Yes,,Non-Stomiidae,Macrophage
+Astronesthes,gemmifer,MCZ 42864,,,,Yes,,Stomiidae,Planktivore
+Astronesthes,gemmifer,MCZ 148312,,,,Yes,,Stomiidae,Planktivore
+Rhadinesthes,,MCZ 64832,,,,Yes,,Stomiidae,Macrophage
+Argyropelecus,,MCZ 137920,,,,Yes,,Non-Stomiidae,Planktivore
+Cyclothone,,MCZ 129191,,,,Yes,,Non-Stomiidae,Planktivore
+Grammatostomias,dentatus,MCZ163121,,,,,"Done, but not on orig list",Stomiidae,Macrophage
